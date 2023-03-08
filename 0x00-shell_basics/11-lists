@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . .. /boot -n -a -l
+ls . .. -na -l /boot -la
